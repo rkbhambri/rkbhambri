@@ -1,0 +1,10 @@
+.header{
+    background:#424299;
+    color: #fff;
+}
+
+.github-logo,
+.linkedIn-logo{
+    height: 40px;
+    width: 40px;
+}

@@ -1,0 +1,67 @@
+{
+    "projects": [
+        {
+            "name": "React Logo Generator",
+            "description": "An application to play with react logo to generate svg/png with different color and background color.",
+            "img_src": "img.png",
+            "demo": "https://rkbhambri.github.io/react-logo-generator/",
+            "code": "https://github.com/rkbhambri/react-logo-generator"
+        },
+        {
+            "name": "Keycode",
+            "description": "A simple tool which can be used to visualize JavaScript keycodes on keyboard key press.",
+            "img_src": "img.1.png",
+            "demo": "https://rkbhambri.github.io/Keycode/",
+            "code": "https://github.com/rkbhambri/Keycode"
+        },
+        {
+            "name": "Github Search Engine",
+            "description": "Example of Github API, when search with github username/reponame it will fetch data on one place.",
+            "img_src": "img.2.png",
+            "demo": "https://rkbhambri.github.io/Github-Search-Engine/",
+            "code": "https://github.com/rkbhambri/Github-Search-Engine"
+        },
+        {
+            "name": "Search news",
+            "description": "This project is a clone of hacker news rewritten with universal JavaScript, using React.",
+            "img_src": "img.3.png",
+            "demo": "https://rkbhambri.github.io/search-news/",
+            "code": "https://github.com/rkbhambri/search-news"
+        },
+        {
+            "name": "Generate Google Fonts",
+            "description": "Allows user to play with available Google fonts with comparison multiple fonts.",
+            "img_src": "img.4.png",
+            "demo": "https://rkbhambri.github.io/Generate-Google-Fonts/",
+            "code": "https://github.com/rkbhambri/Generate-Google-Fonts"
+        },
+        {
+            "name": "React Calculator",
+            "description": "Basic calculator for user to fulfil basic calculation needs.",
+            "img_src": "img.5.png",
+            "demo": "https://rkbhambri.github.io/React-calculator/",
+            "code": "https://github.com/rkbhambri/React-calculator"
+        },
+        {
+            "name": "Emoji Search",
+            "description": "Simple React app for searching emoji from over 1000 emoji.",
+            "img_src": "img.6.png",
+            "demo": "https://rkbhambri.github.io/Emoji-Search-WithoutPagination/",
+            "code": "https://github.com/rkbhambri/Emoji-Search-WithoutPagination"
+        },
+        {
+            "name": "Emoji Search Pagination",
+            "description": "Simple React app for searching emoji with pagination implemented.",
+            "img_src": "img.7.png",
+            "demo": "https://rkbhambri.github.io/react-emoji-search/",
+            "code": "https://github.com/rkbhambri/react-emoji-search"
+        },
+        {
+            "name": "Shopping cart",
+            "description": "Simple ecommerce cart application built using React.",
+            "img_src": "img.8.png",
+            "demo": "https://rkbhambri.github.io/shopping-cart/",
+            "code": "https://github.com/rkbhambri/shopping-cart"
+        }
+    ]
+}
