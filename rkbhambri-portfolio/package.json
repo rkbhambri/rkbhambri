@@ -2,7 +2,7 @@
   "name": "rkbhambri-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rkbhambri.github.io/rkbhambri.github.io/",
+  "homepage": "https://rkbhambri.github.io/rkbhambri/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
