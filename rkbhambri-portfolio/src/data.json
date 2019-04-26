@@ -62,6 +62,20 @@
             "img_src": "img.8.png",
             "demo": "https://rkbhambri.github.io/shopping-cart/",
             "code": "https://github.com/rkbhambri/shopping-cart"
+        },
+        {
+            "name": "Tic Tac Toe",
+            "description": "Simple Tic Tic Toe game built using React.",
+            "img_src": "tic-tac-toe.png",
+            "demo": "https://rkbhambri.github.io/tic-tac-toe/",
+            "code": "https://github.com/rkbhambri/tic-tac-toe/"
+        },
+        {
+            "name": "Text Delimiter",
+            "description": "Free Comma Separating Tool built using React.",
+            "img_src": "text-delimiter.png",
+            "demo": "https://rkbhambri.github.io/text-delimiter/",
+            "code": "https://github.com/rkbhambri/text-delimiter/"
         }
     ]
 }
