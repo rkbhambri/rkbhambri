@@ -10,7 +10,7 @@ const Layout = (props) => {
     }, []);
     console.log(projects)
     return (
-        <div className="layout">
+        <div className="layout w-100">
             <Header />
             <Projects projects={projects} />
         </div>

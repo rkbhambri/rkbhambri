@@ -1,6 +1,12 @@
 {
     "projects": [
         {
+            "name": "Alter Nlu",
+            "description": "A powerful interface that enables you to train your conversational agents with high quality  datasets",
+            "img_src": "img.0.png",
+            "demo": "https://console.kontikilabs.com/login"
+        },
+        {
             "name": "React Logo Generator",
             "description": "An application to play with react logo to generate svg/png with different color and background color.",
             "img_src": "img.png",
@@ -65,14 +71,14 @@
         },
         {
             "name": "Tic Tac Toe",
-            "description": "Simple Tic Tic Toe game built using React.",
+            "description": "A Simple Tic Tac Toe game with both single/double player option built using React.",
             "img_src": "tic-tac-toe.png",
             "demo": "https://rkbhambri.github.io/tic-tac-toe/",
             "code": "https://github.com/rkbhambri/tic-tac-toe/"
         },
         {
             "name": "Text Delimiter",
-            "description": "Free Comma Separating Tool built using React.",
+            "description": "Free Comma Separating Tool with some additional functionalities built using React.",
             "img_src": "text-delimiter.png",
             "demo": "https://rkbhambri.github.io/text-delimiter/",
             "code": "https://github.com/rkbhambri/text-delimiter/"
