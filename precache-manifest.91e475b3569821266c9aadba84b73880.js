@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "00c1f6f26117ec330c7deb060b5b49ea",
-    "url": "/rkbhambri/static/media/img.3.00c1f6f2.png"
+    "revision": "89a412cb43ed6908d5e778132c55c2a2",
+    "url": "/rkbhambri/static/media/img.4.89a412cb.png"
   },
   {
-    "revision": "69186d137b9c6e830d9b",
-    "url": "/rkbhambri/static/css/main.f74689e5.chunk.css"
+    "revision": "5a516181f7159a74cca9",
+    "url": "/rkbhambri/static/css/main.68346113.chunk.css"
   },
   {
     "revision": "15da62c6b22c3df5f571",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/tic-tac-toe.c5c72fe9.png"
   },
   {
-    "revision": "642cbb5e6d040f97bf44",
-    "url": "/rkbhambri/static/js/2.4c156483.chunk.js"
+    "revision": "f0551eb2683b7508224e",
+    "url": "/rkbhambri/static/js/2.e6791fdb.chunk.js"
   },
   {
     "revision": "c671b6f4309966a40987afee860e0a90",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/img.2.02c5d800.png"
   },
   {
-    "revision": "69186d137b9c6e830d9b",
-    "url": "/rkbhambri/static/js/main.c7779a79.chunk.js"
+    "revision": "00c1f6f26117ec330c7deb060b5b49ea",
+    "url": "/rkbhambri/static/media/img.3.00c1f6f2.png"
   },
   {
-    "revision": "89a412cb43ed6908d5e778132c55c2a2",
-    "url": "/rkbhambri/static/media/img.4.89a412cb.png"
+    "revision": "5a516181f7159a74cca9",
+    "url": "/rkbhambri/static/js/main.b309b68b.chunk.js"
   },
   {
     "revision": "67a177044b1e4c3849c51a0be6e4883d",
@@ -80,15 +80,23 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/linkedin-logo-button.1fe3be0e.svg"
   },
   {
+    "revision": "365f783dbb4fe7fd56a648349f7aff0a",
+    "url": "/rkbhambri/static/media/speechToText.365f783d.png"
+  },
+  {
     "revision": "ee8bf17520e59a33cb9cc3e5ecceb04a",
     "url": "/rkbhambri/static/media/text-delimiter.ee8bf175.png"
   },
   {
-    "revision": "642cbb5e6d040f97bf44",
+    "revision": "613a162f190cf89b24457afa41614912",
+    "url": "/rkbhambri/static/media/textToSpeech.613a162f.png"
+  },
+  {
+    "revision": "f0551eb2683b7508224e",
     "url": "/rkbhambri/static/css/2.6ba727fb.chunk.css"
   },
   {
-    "revision": "0c8be5d62780059462aaa51b11dec734",
+    "revision": "95a17642734b8e8b4357af7f988955a3",
     "url": "/rkbhambri/index.html"
   }
 ];
