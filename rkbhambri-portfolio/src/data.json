@@ -92,7 +92,7 @@
         },
         {
             "name": "Text To Speech",
-            "description": "It is experiment with Web Speech Synthesis API that allows to read out strings in a human-like voice..",
+            "description": "It is experiment with Web Speech Synthesis API that allows to read out strings in a human-like voice.",
             "img_src": "textToSpeech.png",
             "demo": "https://rkbhambri.github.io/text-to-speech/",
             "code": "https://github.com/rkbhambri/text-to-speech"
