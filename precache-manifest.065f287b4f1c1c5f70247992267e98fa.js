@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "89a412cb43ed6908d5e778132c55c2a2",
-    "url": "/rkbhambri/static/media/img.4.89a412cb.png"
+    "revision": "67a177044b1e4c3849c51a0be6e4883d",
+    "url": "/rkbhambri/static/media/img.5.67a17704.png"
   },
   {
-    "revision": "6067c83645c61acaddd3",
+    "revision": "25a2732f6a8596b68aea",
     "url": "/rkbhambri/static/css/main.68346113.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/tic-tac-toe.c5c72fe9.png"
   },
   {
-    "revision": "f0551eb2683b7508224e",
-    "url": "/rkbhambri/static/js/2.e6791fdb.chunk.js"
+    "revision": "12e9f01177e138cec38f",
+    "url": "/rkbhambri/static/js/2.c2a10237.chunk.js"
   },
   {
     "revision": "c671b6f4309966a40987afee860e0a90",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/img.3.00c1f6f2.png"
   },
   {
-    "revision": "6067c83645c61acaddd3",
-    "url": "/rkbhambri/static/js/main.5cc62a94.chunk.js"
+    "revision": "89a412cb43ed6908d5e778132c55c2a2",
+    "url": "/rkbhambri/static/media/img.4.89a412cb.png"
   },
   {
-    "revision": "67a177044b1e4c3849c51a0be6e4883d",
-    "url": "/rkbhambri/static/media/img.5.67a17704.png"
+    "revision": "25a2732f6a8596b68aea",
+    "url": "/rkbhambri/static/js/main.4e9845d3.chunk.js"
   },
   {
     "revision": "caa0e9eab0f6dfc320f51722f78fe619",
@@ -80,6 +80,10 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/linkedin-logo-button.1fe3be0e.svg"
   },
   {
+    "revision": "98b4fe182798846709ca05f30843582b",
+    "url": "/rkbhambri/static/media/speech-form.98b4fe18.png"
+  },
+  {
     "revision": "365f783dbb4fe7fd56a648349f7aff0a",
     "url": "/rkbhambri/static/media/speechToText.365f783d.png"
   },
@@ -92,11 +96,11 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/textToSpeech.613a162f.png"
   },
   {
-    "revision": "f0551eb2683b7508224e",
+    "revision": "12e9f01177e138cec38f",
     "url": "/rkbhambri/static/css/2.6ba727fb.chunk.css"
   },
   {
-    "revision": "32b21ba87248ca7e4e3dc7e081ee96d5",
+    "revision": "e53c0a55aba981689c04252302dac7c5",
     "url": "/rkbhambri/index.html"
   }
 ];
