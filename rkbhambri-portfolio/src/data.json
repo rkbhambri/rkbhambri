@@ -84,6 +84,13 @@
             "code": "https://github.com/rkbhambri/text-delimiter/"
         },
         {
+            "name": "Speech Form",
+            "description": "It is a voice enabled app that transform your speech to text which helps you to fill all your form details using speech recognition. ",
+            "img_src": "speech-form.png",
+            "demo": "https://rkbhambri.github.io/speech-form/",
+            "code": "https://github.com/rkbhambri/speech-form"
+        },
+        {
             "name": "Speech To Text",
             "description": "It is just a experiment with the Web Speech API that allows you to record human speech and convert it into text.",
             "img_src": "speechToText.png",
