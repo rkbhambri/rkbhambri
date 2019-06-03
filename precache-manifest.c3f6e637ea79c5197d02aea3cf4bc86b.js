@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/img.5.67a17704.png"
   },
   {
-    "revision": "25a2732f6a8596b68aea",
+    "revision": "2dcd0ac3d2474fc9a3cd",
     "url": "/rkbhambri/static/css/main.68346113.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/tic-tac-toe.c5c72fe9.png"
   },
   {
-    "revision": "12e9f01177e138cec38f",
-    "url": "/rkbhambri/static/js/2.c2a10237.chunk.js"
+    "revision": "0cdb82738e574acf6a41",
+    "url": "/rkbhambri/static/js/2.8cd93706.chunk.js"
   },
   {
     "revision": "c671b6f4309966a40987afee860e0a90",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/img.4.89a412cb.png"
   },
   {
-    "revision": "25a2732f6a8596b68aea",
-    "url": "/rkbhambri/static/js/main.4e9845d3.chunk.js"
+    "revision": "2dcd0ac3d2474fc9a3cd",
+    "url": "/rkbhambri/static/js/main.f84ef109.chunk.js"
   },
   {
     "revision": "caa0e9eab0f6dfc320f51722f78fe619",
@@ -84,6 +84,10 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/speech-form.98b4fe18.png"
   },
   {
+    "revision": "03ae6d660d317dbaab0100e091ff617f",
+    "url": "/rkbhambri/static/media/speech-recognition-form.03ae6d66.png"
+  },
+  {
     "revision": "365f783dbb4fe7fd56a648349f7aff0a",
     "url": "/rkbhambri/static/media/speechToText.365f783d.png"
   },
@@ -96,11 +100,11 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/textToSpeech.613a162f.png"
   },
   {
-    "revision": "12e9f01177e138cec38f",
+    "revision": "0cdb82738e574acf6a41",
     "url": "/rkbhambri/static/css/2.6ba727fb.chunk.css"
   },
   {
-    "revision": "e53c0a55aba981689c04252302dac7c5",
+    "revision": "0a40d47b59ba3d98b8dd8abedd94cd0f",
     "url": "/rkbhambri/index.html"
   }
 ];
