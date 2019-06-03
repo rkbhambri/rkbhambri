@@ -22,7 +22,7 @@
         },
         {
             "name": "Github Search Engine",
-            "description": "Example of Github API, when search with github username/reponame it will fetch data on one place.",
+            "description": "When search with github username/reponame it will fetch data usig Github API at one place.",
             "img_src": "img.2.png",
             "demo": "https://rkbhambri.github.io/Github-Search-Engine/",
             "code": "https://github.com/rkbhambri/Github-Search-Engine"
@@ -85,7 +85,7 @@
         },
         {
             "name": "Text Delimiter",
-            "description": "Free Comma Separating Tool with some additional functionalities built using React.",
+            "description": "Free Comma Separating Tool with some additional functionalities such as delimiting the start and the end of each item with a character.",
             "img_src": "text-delimiter.png",
             "demo": "https://rkbhambri.github.io/text-delimiter/",
             "code": "https://github.com/rkbhambri/text-delimiter/"
