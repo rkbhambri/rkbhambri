@@ -8,7 +8,7 @@
         },
         {
             "name": "Speech Recognition Form",
-            "description": "Fully voice enabled speech recognition form in which assistant ask for respective fields to fill information and your respond accordingly. ",
+            "description": "Fully voice enabled speech recognition form in which assistant ask for respective fields to fill information and respond accordingly. ",
             "img_src": "speech-recognition-form.png",
             "demo": "https://rkbhambri.github.io/speech-recognition-form/",
             "code": "https://github.com/rkbhambri/speech-recognition-form"
@@ -71,7 +71,7 @@
         },
         {
             "name": "Shopping cart",
-            "description": "Simple ecommerce cart application built using React.",
+            "description": "Simple ecommerce cart application built using React. In this user can add, sort, filter items and put in cart.",
             "img_src": "img.8.png",
             "demo": "https://rkbhambri.github.io/shopping-cart/",
             "code": "https://github.com/rkbhambri/shopping-cart"
