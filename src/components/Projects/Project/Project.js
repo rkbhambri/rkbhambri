@@ -2,7 +2,7 @@ import React from 'react';
 import './Project.css';
 const Project = (props) => {
     return (
-        <div className="projects-item col-lg-3 col-md-3 col-sm-12 col-xs-11 offset-1 mt-4">
+        <div className="projects-item col-lg-3 col-md-3 col-sm-12 col-11 offset-1 mt-4">
             <div className="project-image">
                 <img src={require('../../../images/' + props.projectData.img_src)} style={{ width: '100%', height: '220px' }} alt="Rk Bhambri" />
             </div>
