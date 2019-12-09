@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "Alter Nlu",
-            "description": "A powerful interface that enables you to train your conversational agents with high quality  datasets",
+            "description": "Alter Nlu is a powerful interface that enables you to train your conversational agents with high quality  datasets",
             "img_src": "img.0.png",
             "demo": "https://console.kontikilabs.com/login"
         },
