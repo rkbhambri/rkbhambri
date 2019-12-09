@@ -1,0 +1,115 @@
+{
+    "projects": [
+        {
+            "name": "Alter Nlu",
+            "description": "Alter Nlu is a powerful interface that enables you to train your conversational agents with high quality  datasets",
+            "img_src": "img.0.png",
+            "demo": "https://console.kontikilabs.com/login"
+        },
+        {
+            "name": "Speech Recognition Form",
+            "description": "Fully voice enabled speech recognition form in which assistant ask for respective fields to fill information and respond accordingly. ",
+            "img_src": "speech-recognition-form.png",
+            "demo": "https://rkbhambri.github.io/speech-recognition-form/",
+            "code": "https://github.com/rkbhambri/speech-recognition-form"
+        },
+        {
+            "name": "React Logo Generator",
+            "description": "An application to play with react logo to generate svg/png with different color and background color.",
+            "img_src": "img.png",
+            "demo": "https://rkbhambri.github.io/react-logo-generator/",
+            "code": "https://github.com/rkbhambri/react-logo-generator"
+        },
+        {
+            "name": "Github Search Engine",
+            "description": "When search with github username/reponame it will fetch data usig Github API at one place.",
+            "img_src": "img.2.png",
+            "demo": "https://rkbhambri.github.io/Github-Search-Engine/",
+            "code": "https://github.com/rkbhambri/Github-Search-Engine"
+        },
+        {
+            "name": "Keycode",
+            "description": "A simple tool which can be used to visualize JavaScript keycodes on keyboard key press.",
+            "img_src": "img.1.png",
+            "demo": "https://rkbhambri.github.io/Keycode/",
+            "code": "https://github.com/rkbhambri/Keycode"
+        },
+        {
+            "name": "Search news",
+            "description": "This project is a clone of hacker news rewritten with universal JavaScript, using React.",
+            "img_src": "img.3.png",
+            "demo": "https://rkbhambri.github.io/search-news/",
+            "code": "https://github.com/rkbhambri/search-news"
+        },
+        {
+            "name": "Generate Google Fonts",
+            "description": "Allows user to play with available Google fonts with comparison multiple fonts.",
+            "img_src": "img.4.png",
+            "demo": "https://rkbhambri.github.io/Generate-Google-Fonts/",
+            "code": "https://github.com/rkbhambri/Generate-Google-Fonts"
+        },
+        {
+            "name": "React Calculator",
+            "description": "Basic calculator for user to fulfil basic calculation needs.",
+            "img_src": "img.5.png",
+            "demo": "https://rkbhambri.github.io/React-calculator/",
+            "code": "https://github.com/rkbhambri/React-calculator"
+        },
+        {
+            "name": "Emoji Search",
+            "description": "Simple React app for searching emoji from over 1000 emoji.",
+            "img_src": "img.6.png",
+            "demo": "https://rkbhambri.github.io/Emoji-Search-WithoutPagination/",
+            "code": "https://github.com/rkbhambri/Emoji-Search-WithoutPagination"
+        },
+        {
+            "name": "Emoji Search Pagination",
+            "description": "Simple React app for searching emoji with pagination implemented.",
+            "img_src": "img.7.png",
+            "demo": "https://rkbhambri.github.io/react-emoji-search/",
+            "code": "https://github.com/rkbhambri/react-emoji-search"
+        },
+        {
+            "name": "Shopping cart",
+            "description": "Simple ecommerce cart application built using React. In this user can add, sort, filter items and put in cart.",
+            "img_src": "img.8.png",
+            "demo": "https://rkbhambri.github.io/shopping-cart/",
+            "code": "https://github.com/rkbhambri/shopping-cart"
+        },
+        {
+            "name": "Tic Tac Toe",
+            "description": "A Simple Tic Tac Toe game with both single/double player option built using React.",
+            "img_src": "tic-tac-toe.png",
+            "demo": "https://rkbhambri.github.io/tic-tac-toe/",
+            "code": "https://github.com/rkbhambri/tic-tac-toe/"
+        },
+        {
+            "name": "Text Delimiter",
+            "description": "Free Comma Separating Tool with some additional functionalities such as delimiting the start and the end of each item with a character.",
+            "img_src": "text-delimiter.png",
+            "demo": "https://rkbhambri.github.io/text-delimiter/",
+            "code": "https://github.com/rkbhambri/text-delimiter/"
+        },
+        {
+            "name": "Speech Form",
+            "description": "It is a voice enabled app that transform your speech to text which helps you to fill all your form details using speech recognition. ",
+            "img_src": "speech-form.png",
+            "demo": "https://rkbhambri.github.io/speech-form/",
+            "code": "https://github.com/rkbhambri/speech-form"
+        },
+        {
+            "name": "Speech To Text",
+            "description": "It is just a experiment with the Web Speech API that allows you to record human speech and convert it into text.",
+            "img_src": "speechToText.png",
+            "demo": "https://rkbhambri.github.io/speech-to-text/",
+            "code": "https://github.com/rkbhambri/speech-to-text"
+        },
+        {
+            "name": "Text To Speech",
+            "description": "It is experiment with Web Speech Synthesis API that allows to read out strings in a human-like voice.",
+            "img_src": "textToSpeech.png",
+            "demo": "https://rkbhambri.github.io/text-to-speech/",
+            "code": "https://github.com/rkbhambri/text-to-speech"
+        }
+    ]
+}
