@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/img.5.67a17704.png"
   },
   {
-    "revision": "4ca3e400700ed131cdc5",
+    "revision": "f7fcc2c95bb0121a1e99",
     "url": "/rkbhambri/static/css/main.77bf667f.chunk.css"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/media/img.4.89a412cb.png"
   },
   {
-    "revision": "4ca3e400700ed131cdc5",
-    "url": "/rkbhambri/static/js/main.0235b64b.chunk.js"
+    "revision": "f7fcc2c95bb0121a1e99",
+    "url": "/rkbhambri/static/js/main.52b71c0e.chunk.js"
   },
   {
     "revision": "caa0e9eab0f6dfc320f51722f78fe619",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/css/2.623fb02d.chunk.css"
   },
   {
-    "revision": "78a01e88df636fc1ae96aca0ff89814b",
+    "revision": "3d75efb81c5ba273e53e2c97f1b83998",
     "url": "/rkbhambri/index.html"
   }
 ];
