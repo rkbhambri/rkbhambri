@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/rkbhambri/static/css/2.6ba727fb.chunk.css"
   },
   {
-    "revision": "7333438e6e44db3905c9b173adc8820d",
+    "revision": "d58bedf96b8cd2644c7cdd0031a92f13",
     "url": "/rkbhambri/index.html"
   }
 ];
