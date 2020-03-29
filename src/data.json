@@ -7,6 +7,28 @@
             "demo": "https://console.kontikilabs.com/login"
         },
         {
+            "name": "iMakers.me",
+            "description": "Future Leaders is a program for finding and nurturing world’s most promising youth leaders",
+            "img_src": "imakers.png",
+            "demo": "https://console.kontikilabs.com/login"
+        },
+        {
+            "name": "Business-raja-admin",
+            "description": "Business Raja helps small businessman and entrepreneurs ranging from guiding, training and funding them so as to implement their ideas on wider scale.This platform is for admin to analyze information filled by user.",
+            "img_src": "business-raja-admin.png"
+        },
+        {
+            "name": "Business-raja-users",
+            "description": "Business Raja helps small businessman and entrepreneurs ranging from guiding, training and funding them so as to implement their ideas on wider scale. This platform is for users to gather tehir information.",
+            "img_src": "business-raja-users.png"
+        },
+        {
+            "name": "League",
+            "description": "A social media platform for engaging employees withing the organization so as later to understand the mood of employees using artificial intelligence.",
+            "img_src": "league.png",
+            "demo": "https://console.kontikilabs.com/login"
+        },
+        {
             "name": "Speech Recognition Form",
             "description": "Fully voice enabled speech recognition form in which assistant ask for respective fields to fill information and respond accordingly. ",
             "img_src": "speech-recognition-form.png",
